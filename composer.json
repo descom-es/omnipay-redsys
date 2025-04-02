@@ -22,8 +22,8 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": "^8.2",
-        "guzzlehttp/guzzle": "^7.4",
+        "php": "^8.3",
+        "guzzlehttp/guzzle": "^7.8",
         "league/omnipay": "^3.2",
         "omnipay/common": "^3.2",
         "descom/redsys": "^1.7.6"
@@ -31,9 +31,9 @@
     "require-dev": {
         "guzzlehttp/psr7": "^1|^2",
         "omnipay/tests": "^4.1",
-        "phpunit/phpunit": "^9.5|^10.0|^10.5",
-        "friendsofphp/php-cs-fixer": "^3.10",
-        "phpstan/phpstan": "^1.8"
+        "phpunit/phpunit": "^10.5|^11.5",
+        "friendsofphp/php-cs-fixer": "^3.75",
+        "phpstan/phpstan": "^2.1"
     },
     "config": {
         "allow-plugins": {
